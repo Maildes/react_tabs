@@ -1,2 +1,0 @@
-body{background-color:rgba(112,128,144,.3)}.tabs{list-style:none;display:flex;padding:0;justify-content:space-evenly;border-bottom:2px solid #2e8b57}.clickButton{padding:15px;cursor:pointer;background:none;border:none;outline:none}.clickButton,.tab__content{font-size:30px;color:#2e8b57}.tab__content{width:800px;margin:0 auto;text-align:center}.tabs__item--active{background-color:rgba(32,178,170,.4);color:#fff;border:2px solid #2e8b57;border-bottom:none;border-radius:5px 5px 0 0}.tabs__item--active .clickButton{color:#fff}
-/*# sourceMappingURL=main.b944d940.chunk.css.map */
